@@ -1,0 +1,28 @@
+/* 版心 */
+.w{
+	width: 1600px;
+	margin: 0 auto;
+}
+.ba{
+	background: #507ae1;
+}
+.bb{
+	background: red;
+}
+.inline{
+	display: inline;
+}
+.nav-but{
+	width: 133px;
+	display: inline-block;
+	background: red;
+}
+.form-group:first-child{
+	margin-left: 0px;
+}
+.form-group{
+	margin-left:30px; 
+}
+body{
+    cursor: pointer;
+}
